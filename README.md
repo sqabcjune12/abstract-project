@@ -1,5 +1,4 @@
-# Basic Project
-## Basic Project Structure
+# Abstract Classes and Interfaces Project
 
 *Default Structure for A Basic Project*
 
